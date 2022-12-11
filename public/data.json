@@ -1,0 +1,26 @@
+[
+    {
+      "_id": "6394b2dfdeb18c82aca8b51b",
+      "picture": "https://i.ibb.co/Sf7XBF0/offerUp.png",
+      "description": "lorem",
+      "technology": "Lorem", 
+      "name" : "Offer Up",
+      "liveSite" : "https://offer-up-40cc0.web.app/"
+    },
+    {
+      "_id": "6394b2df4e2ac24788f071ab",
+      "picture": "https://i.ibb.co/8dyQMy3/Screenshot-2022-12-10-at-10-19-23-PM.png",
+      "description": "lorem",
+      "technology": "Lorem", 
+      "name" : "Health Coach",
+      "liveSite" : "https://health-coach-c8238.web.app/"
+    },
+    {
+      "_id": "6394b2df7abf3aaf78ff0a74",
+      "picture": "https://i.ibb.co/nzRT0K2/Screenshot-2022-12-10-at-10-20-03-PM.png",
+      "description": "lorem",
+      "technology": "Quiz4U", 
+      "name" : "Quiz4U",
+      "liveSite" : "https://quiz4u-bd.netlify.app/"
+    }
+  ]

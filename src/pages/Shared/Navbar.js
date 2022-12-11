@@ -13,7 +13,7 @@ const Navbar = () => {
 
 
     return (
-        <div className="navbar rounded  flex justify-between md:text-accent  uppercase font-bold sticky top-0 z-50">
+        <div className="navbar bg-sky-800 rounded  flex justify-between md:text-accent  uppercase font-bold sticky top-0 z-50">
   <div className="navbar-start">
     <div className="dropdown">
       <label tabIndex={0} className="btn btn-ghost lg:hidden">
